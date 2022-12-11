@@ -4,7 +4,7 @@
 set -e
 set -o pipefail
 
-echo "changes to feat/checkmate branch"
+echo "changes from deveoper branch"
 echo DOCKER_USERNAME
 echo DOCKER_PASSWORD
 echo QUAY_DOCKER_CONFIG_JSON_PULL_SECRET
